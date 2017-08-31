@@ -27,4 +27,5 @@ foreach (explode("\n",$b[0]) as $val) {
 		];
 	})($jadwal);
 }
-print(json_encode($jadwal, 128));
+print($a = json_encode($jadwal, 128));
+file_put_contents("jadwal_".time().".json", $a, LOCK_EX);
