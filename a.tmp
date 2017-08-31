@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Jadwal Sholat &#47; Waktu Sholat Baru Terupdate Jakarta &#38; Indonesia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta name="description" content="Jadwal Sholat atau Waktu Sholat Versi Baru dan Terupdate untuk wilayah Jakarta dan Seluruh Indonesia" />
+<meta name="keywords" content="jadwal sholat, waktu sholat, sholat, shalat, jadwal shalat, waktu shalat, jakarta, DKI Jakarta, indonesia" />
+<link rel="canonical" href="https://jadwalsholat.pkpu.or.id/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Jadwal Sholat &#47; Waktu Sholat Baru Terupdate Jakarta &#38; Indonesia" />
+<meta property="og:description" content="Jadwal Sholat atau Waktu Sholat Versi Baru dan Terupdate untuk wilayah Jakarta dan Seluruh Indonesia" />
+<meta property="og:url" content="https://jadwalsholat.pkpu.or.id/" />
+<meta property="og:site_name" content="Jadwal Sholat PKPU" />
+<meta property="og:image" content="https://jadwalsholat.pkpu.or.id/images/pkpu.png" />
+<meta property="og:image:width" content="96" />
+<meta property="og:image:height" content="32" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Jadwal Sholat atau Waktu Sholat Versi Baru dan Terupdate untuk wilayah Jakarta dan Seluruh Indonesia" />
+<meta name="twitter:title" content="Jadwal Sholat &#47; Waktu Sholat Baru Terupdate Jakarta &#38; Indonesia" />
+<meta name="twitter:image" content="https://jadwalsholat.pkpu.or.id/images/pkpu.png" />
+<link rel="shortcut icon" href="images/favicon.ico" />
+<link rel="stylesheet" href="style/pkpu.css" type="text/css" />
+</head>
+<body>
+<table cellspacing="0" cellpadding="2" class="table_adzan" align="center">
+<tr class="table_title">
+<td colspan="6">
+<table style="width: 100%\; border:0;"
+><tr class="table_title">
+<td align="left" style="width:25%">
+<a href="http://www.pkpu.org" target="_blank"><img src="images/pkpu.png"></a>
+</td>
+<td align="center" style="width:50%">
+<b>Agustus 2017</b><br>
+<small>(Untuk Kota <b>Jakarta</b> GMT +7)</small>
+</td>
+<td align="right" style="width:25%; vertical-align: top;">
+<img src="images/new.png">
+</td>
+</tr>
+</table></td>
+</tr>
+<script language="javascript">
+function change_page(){
+window.location="?id="+document.pilih.kota.value;
+}
+</script>
+<form name=pilih>
+<tr class="table_navigasi"><td colspan="6">
+<table cellspacing="0" cellpading="2" width="100%">
+<tr class="table_navigasi"><td align="left">&nbsp;<a href="monthly.php?xq=604754fb67&type=2&id=83&m=7&y=2017" title="sebelum" onMouseOver="window.status='sebelum';return true" OnMouseOut="window.status='Adzan';return true" class="m"><img src="images/left.gif" border="0"> sebelum</a></td>
+<td align="center">Pilih Kota&nbsp;
+<select name=kota onChange="change_page()" class="inputcity">
+<option value="1">Ambarawa</option>
+<option value="2">Ambon</option>
+<option value="3">Amlapura</option>
+<option value="4">Amuntai</option>
+<option value="5">Argamakmur</option>
+<option value="6">Atambua</option>
+<option value="7">Babo</option>
+<option value="8">Bagan Siapiapi</option>
+<option value="9">Bajawa</option>
+<option value="10">Balige</option>
+<option value="11">Balik Papan</option>
+<option value="12">Banda Aceh</option>
+<option value="13">Bandarlampung</option>
+<option value="14">Bandung</option>
+<option value="15">Bangkalan</option>
+<option value="16">Bangkinang</option>
+<option value="17">Bangko</option>
+<option value="18">Bangli</option>
+<option value="19">Banjar</option>
+<option value="20">Banjar Baru</option>
+<option value="21">Banjarmasin</option>
+<option value="22">Banjarnegara</option>
+<option value="23">Bantaeng</option>
+<option value="24">Banten</option>
+<option value="25">Bantul</option>
+<option value="26">Banyuwangi</option>
+<option value="27">Barabai</option>
+<option value="28">Barito</option>
+<option value="29">Barru</option>
+<option value="30">Batam</option>
+<option value="31">Batang</option>
+<option value="32">Batu</option>
+<option value="33">Baturaja</option>
+<option value="34">Batusangkar</option>
+<option value="35">Baubau</option>
+<option value="36">Bekasi</option>
+<option value="37">Bengkalis</option>
+<option value="38">Bengkulu</option>
+<option value="39">Benteng</option>
+<option value="40">Biak</option>
+<option value="41">Bima</option>
+<option value="42">Binjai</option>
+<option value="43">Bireuen</option>
+<option value="44">Bitung</option>
+<option value="45">Blitar</option>
+<option value="46">Blora</option>
+<option value="47">Bogor</option>
+<option value="48">Bojonegoro</option>
+<option value="49">Bondowoso</option>
+<option value="50">Bontang</option>
+<option value="51">Boyolali</option>
+<option value="52">Brebes</option>
+<option value="53">Bukit Tinggi</option>
+<option value="54">Bulukumba</option>
+<option value="55">Buntok</option>
+<option value="56">Cepu</option>
+<option value="57">Ciamis</option>
+<option value="58">Cianjur</option>
+<option value="59">Cibinong</option>
+<option value="60">Cilacap</option>
+<option value="61">Cilegon</option>
+<option value="62">Cimahi</option>
+<option value="63">Cirebon</option>
+<option value="64">Curup</option>
+<option value="65">Demak</option>
+<option value="66">Denpasar</option>
+<option value="67">Depok</option>
+<option value="68">Dili</option>
+<option value="69">Dompu</option>
+<option value="70">Donggala</option>
+<option value="71">Dumai</option>
+<option value="72">Ende</option>
+<option value="73">Enggano</option>
+<option value="74">Enrekang</option>
+<option value="75">Fakfak</option>
+<option value="76">Garut</option>
+<option value="77">Gianyar</option>
+<option value="78">Gombong</option>
+<option value="79">Gorontalo</option>
+<option value="80">Gresik</option>
+<option value="81">Gunung Sitoli</option>
+<option value="82">Indramayu</option>
+<option value="83" selected>Jakarta</option>
+<option value="84">Jambi</option>
+<option value="85">Jayapura</option>
+<option value="86">Jember</option>
+<option value="87">Jeneponto</option>
+<option value="88">Jepara</option>
+<option value="89">Jombang</option>
+<option value="90">Kabanjahe</option>
+<option value="91">Kalabahi</option>
+<option value="92">Kalianda</option>
+<option value="93">Kandangan</option>
+<option value="94">Karanganyar</option>
+<option value="95">Karawang</option>
+<option value="96">Kasungan</option>
+<option value="97">Kayuagung</option>
+<option value="98">Kebumen</option>
+<option value="99">Kediri</option>
+<option value="100">Kefamenanu</option>
+<option value="101">Kendal</option>
+<option value="102">Kendari</option>
+<option value="103">Kertosono</option>
+<option value="104">Ketapang</option>
+<option value="105">Kisaran</option>
+<option value="106">Klaten</option>
+<option value="107">Kolaka</option>
+<option value="108">Kota Baru Pulau Laut</option>
+<option value="109">Kota Bumi</option>
+<option value="110">Kota Jantho</option>
+<option value="111">Kota Mobagu</option>
+<option value="112">Kuala Kapuas</option>
+<option value="113">Kuala Kurun</option>
+<option value="114">Kuala Pembuang</option>
+<option value="115">Kuala Tungkal</option>
+<option value="116">Kudus</option>
+<option value="117">Kuningan</option>
+<option value="118">Kupang</option>
+<option value="119">Kutacane</option>
+<option value="120">Kutoarjo</option>
+<option value="121">Labuhan</option>
+<option value="122">Lahat</option>
+<option value="123">Lamongan</option>
+<option value="124">Langsa</option>
+<option value="125">Larantuka</option>
+<option value="126">Lawang</option>
+<option value="127">Lhoseumawe</option>
+<option value="128">Limboto</option>
+<option value="129">Lubuk Basung</option>
+<option value="130">Lubuk Linggau</option>
+<option value="131">Lubuk Pakam</option>
+<option value="132">Lubuk Sikaping</option>
+<option value="133">Lumajang</option>
+<option value="134">Luwuk</option>
+<option value="135">Madiun</option>
+<option value="136">Magelang</option>
+<option value="137">Magetan</option>
+<option value="138">Majalengka</option>
+<option value="139">Majene</option>
+<option value="140">Makale</option>
+<option value="141">Makassar</option>
+<option value="142">Malang</option>
+<option value="143">Mamuju</option>
+<option value="144">Manna</option>
+<option value="145">Manokwari</option>
+<option value="146">Marabahan</option>
+<option value="147">Maros</option>
+<option value="148">Martapura</option>
+<option value="149">Masohi</option>
+<option value="150">Mataram</option>
+<option value="151">Maumere</option>
+<option value="152">Medan</option>
+<option value="153">Mempawah</option>
+<option value="154">Menado</option>
+<option value="155">Mentok</option>
+<option value="156">Merauke</option>
+<option value="157">Metro</option>
+<option value="158">Meulaboh</option>
+<option value="159">Mojokerto</option>
+<option value="160">Muara Bulian</option>
+<option value="161">Muara Bungo</option>
+<option value="162">Muara Enim</option>
+<option value="163">Muara Teweh</option>
+<option value="164">Muaro Sijunjung</option>
+<option value="165">Muntilan</option>
+<option value="166">Nabire</option>
+<option value="167">Negara</option>
+<option value="168">Nganjuk</option>
+<option value="169">Ngawi</option>
+<option value="170">Nunukan</option>
+<option value="171">Pacitan</option>
+<option value="172">Padang</option>
+<option value="173">Padang Panjang</option>
+<option value="174">Padang Sidempuan</option>
+<option value="175">Pagaralam</option>
+<option value="176">Painan</option>
+<option value="177">Palangkaraya</option>
+<option value="178">Palembang</option>
+<option value="179">Palopo</option>
+<option value="180">Palu</option>
+<option value="181">Pamekasan</option>
+<option value="182">Pandeglang</option>
+<option value="183">Pangkajene</option>
+<option value="184">Pangkajene Sidenreng</option>
+<option value="185">Pangkalanbun</option>
+<option value="186">Pangkalpinang</option>
+<option value="187">Panyabungan</option>
+<option value="188">Pare</option>
+<option value="189">Parepare</option>
+<option value="190">Pariaman</option>
+<option value="191">Pasuruan</option>
+<option value="192">Pati</option>
+<option value="193">Payakumbuh</option>
+<option value="194">Pekalongan</option>
+<option value="195">Pekan Baru</option>
+<option value="196">Pemalang</option>
+<option value="197">Pematangsiantar</option>
+<option value="198">Pendopo</option>
+<option value="199">Pinrang</option>
+<option value="200">Pleihari</option>
+<option value="201">Polewali</option>
+<option value="202">Pondok Gede</option>
+<option value="203">Ponorogo</option>
+<option value="204">Pontianak</option>
+<option value="205">Poso</option>
+<option value="206">Prabumulih</option>
+<option value="207">Praya</option>
+<option value="208">Probolinggo</option>
+<option value="209">Purbalingga</option>
+<option value="210">Purukcahu</option>
+<option value="211">Purwakarta</option>
+<option value="212">Purwodadigrobogan</option>
+<option value="213">Purwokerto</option>
+<option value="214">Purworejo</option>
+<option value="215">Putussibau</option>
+<option value="216">Raha</option>
+<option value="217">Rangkasbitung</option>
+<option value="218">Rantau</option>
+<option value="219">Rantauprapat</option>
+<option value="220">Rantepao</option>
+<option value="221">Rembang</option>
+<option value="222">Rengat</option>
+<option value="223">Ruteng</option>
+<option value="224">Sabang</option>
+<option value="225">Salatiga</option>
+<option value="226">Samarinda</option>
+<option value="227">Sampang</option>
+<option value="228">Sampit</option>
+<option value="229">Sanggau</option>
+<option value="230">Sawahlunto</option>
+<option value="231">Sekayu</option>
+<option value="232">Selong</option>
+<option value="233">Semarang</option>
+<option value="234">Sengkang</option>
+<option value="235">Serang</option>
+<option value="236">Serui</option>
+<option value="237">Sibolga</option>
+<option value="238">Sidikalang</option>
+<option value="239">Sidoarjo</option>
+<option value="240">Sigli</option>
+<option value="241">Singaparna</option>
+<option value="242">Singaraja</option>
+<option value="243">Singkawang</option>
+<option value="244">Sinjai</option>
+<option value="245">Sintang</option>
+<option value="246">Situbondo</option>
+<option value="247">Slawi</option>
+<option value="248">Sleman</option>
+<option value="249">Soasiu</option>
+<option value="250">Soe</option>
+<option value="251">Solo</option>
+<option value="252">Solok</option>
+<option value="253">Soreang</option>
+<option value="254">Sorong</option>
+<option value="255">Sragen</option>
+<option value="256">Stabat</option>
+<option value="257">Subang</option>
+<option value="258">Sukabumi</option>
+<option value="259">Sukoharjo</option>
+<option value="260">Sumbawa Besar</option>
+<option value="261">Sumedang</option>
+<option value="262">Sumenep</option>
+<option value="263">Sungai Liat</option>
+<option value="264">Sungai Penuh</option>
+<option value="265">Sungguminasa</option>
+<option value="266">Surabaya</option>
+<option value="267">Surakarta</option>
+<option value="268">Tabanan</option>
+<option value="269">Tahuna</option>
+<option value="270">Takalar</option>
+<option value="271">Takengon</option>
+<option value="272">Tamiang Layang</option>
+<option value="273">Tanah Grogot</option>
+<option value="274">Tangerang</option>
+<option value="275">Tanjung Balai</option>
+<option value="276">Tanjung Enim</option>
+<option value="277">Tanjung Pandan</option>
+<option value="278">Tanjung Pinang</option>
+<option value="279">Tanjung Redep</option>
+<option value="280">Tanjung Selor</option>
+<option value="281">Tapak Tuan</option>
+<option value="282">Tarakan</option>
+<option value="283">Tarutung</option>
+<option value="284">Tasikmalaya</option>
+<option value="285">Tebing Tinggi</option>
+<option value="286">Tegal</option>
+<option value="287">Temanggung</option>
+<option value="288">Tembilahan</option>
+<option value="289">Tenggarong</option>
+<option value="290">Ternate</option>
+<option value="291">Tolitoli</option>
+<option value="292">Tondano</option>
+<option value="293">Trenggalek</option>
+<option value="294">Tual</option>
+<option value="295">Tuban</option>
+<option value="296">Tulung Agung</option>
+<option value="297">Ujung Berung</option>
+<option value="298">Ungaran</option>
+<option value="299">Waikabubak</option>
+<option value="300">Waingapu</option>
+<option value="301">Wamena</option>
+<option value="302">Watampone</option>
+<option value="303">Watansoppeng</option>
+<option value="304">Wates</option>
+<option value="305">Wonogiri</option>
+<option value="306">Wonosari</option>
+<option value="307">Wonosobo</option>
+<option value="308">Yogyakarta</option>
+</select>
+</td>
+<td align="right"><a href="monthly.php?vw=cd0038c776&type=2&id=83&m=9&y=2017" title="sesudah" onMouseOver="window.status='sesudah';return true" OnMouseOut="window.status='Adzan';return true" class="m">sesudah <img src="images/right.gif" border="0"></a>&nbsp;</td>
+</tr>
+</table>
+</td></tr>
+</form>
+<tr class="table_header" align="center">
+<td><b>Tanggal</b></td><td style="width:16.6666666667%"><b>Shubuh</b></td><td style="width:16.6666666667%"><b>Dzuhur</b></td><td style="width:16.6666666667%"><b>Ashr</b></td><td style="width:16.6666666667%"><b>Maghrib</b></td><td style="width:16.6666666667%"><b>Isya</b></td></tr>
+<tr class="table_light" align="center"><td><b>01</b></td><td>04:45</td><td>12:01</td><td>15:24</td><td>17:57</td><td>19:09</td></tr>
+<tr class="table_dark" align="center"><td><b>02</b></td><td>04:45</td><td>12:01</td><td>15:23</td><td>17:57</td><td>19:09</td></tr>
+<tr class="table_light" align="center"><td><b>03</b></td><td>04:45</td><td>12:01</td><td>15:23</td><td>17:57</td><td>19:09</td></tr>
+<tr class="table_dark" align="center"><td><b>04</b></td><td>04:45</td><td>12:01</td><td>15:23</td><td>17:57</td><td>19:09</td></tr>
+<tr class="table_light" align="center"><td><b>05</b></td><td>04:45</td><td>12:01</td><td>15:23</td><td>17:57</td><td>19:09</td></tr>
+<tr class="table_dark" align="center"><td><b>06</b></td><td>04:45</td><td>12:01</td><td>15:23</td><td>17:57</td><td>19:09</td></tr>
+<tr class="table_light" align="center"><td><b>07</b></td><td>04:45</td><td>12:01</td><td>15:23</td><td>17:57</td><td>19:09</td></tr>
+<tr class="table_dark" align="center"><td><b>08</b></td><td>04:45</td><td>12:01</td><td>15:23</td><td>17:57</td><td>19:09</td></tr>
+<tr class="table_light" align="center"><td><b>09</b></td><td>04:44</td><td>12:01</td><td>15:22</td><td>17:57</td><td>19:09</td></tr>
+<tr class="table_dark" align="center"><td><b>10</b></td><td>04:44</td><td>12:01</td><td>15:22</td><td>17:57</td><td>19:09</td></tr>
+<tr class="table_light" align="center"><td><b>11</b></td><td>04:44</td><td>12:00</td><td>15:22</td><td>17:57</td><td>19:08</td></tr>
+<tr class="table_dark" align="center"><td><b>12</b></td><td>04:44</td><td>12:00</td><td>15:22</td><td>17:57</td><td>19:08</td></tr>
+<tr class="table_light" align="center"><td><b>13</b></td><td>04:44</td><td>12:00</td><td>15:22</td><td>17:57</td><td>19:08</td></tr>
+<tr class="table_dark" align="center"><td><b>14</b></td><td>04:44</td><td>12:00</td><td>15:21</td><td>17:57</td><td>19:08</td></tr>
+<tr class="table_light" align="center"><td><b>15</b></td><td>04:43</td><td>12:00</td><td>15:21</td><td>17:57</td><td>19:08</td></tr>
+<tr class="table_dark" align="center"><td><b>16</b></td><td>04:43</td><td>12:00</td><td>15:21</td><td>17:57</td><td>19:08</td></tr>
+<tr class="table_light" align="center"><td><b>17</b></td><td>04:43</td><td>11:59</td><td>15:20</td><td>17:57</td><td>19:08</td></tr>
+<tr class="table_dark" align="center"><td><b>18</b></td><td>04:43</td><td>11:59</td><td>15:20</td><td>17:57</td><td>19:07</td></tr>
+<tr class="table_light" align="center"><td><b>19</b></td><td>04:42</td><td>11:59</td><td>15:20</td><td>17:57</td><td>19:07</td></tr>
+<tr class="table_dark" align="center"><td><b>20</b></td><td>04:42</td><td>11:59</td><td>15:19</td><td>17:57</td><td>19:07</td></tr>
+<tr class="table_light" align="center"><td><b>21</b></td><td>04:42</td><td>11:58</td><td>15:19</td><td>17:56</td><td>19:07</td></tr>
+<tr class="table_dark" align="center"><td><b>22</b></td><td>04:42</td><td>11:58</td><td>15:19</td><td>17:56</td><td>19:07</td></tr>
+<tr class="table_light" align="center"><td><b>23</b></td><td>04:41</td><td>11:58</td><td>15:18</td><td>17:56</td><td>19:07</td></tr>
+<tr class="table_dark" align="center"><td><b>24</b></td><td>04:41</td><td>11:58</td><td>15:18</td><td>17:56</td><td>19:06</td></tr>
+<tr class="table_light" align="center"><td><b>25</b></td><td>04:41</td><td>11:57</td><td>15:17</td><td>17:56</td><td>19:06</td></tr>
+<tr class="table_dark" align="center"><td><b>26</b></td><td>04:40</td><td>11:57</td><td>15:17</td><td>17:56</td><td>19:06</td></tr>
+<tr class="table_light" align="center"><td><b>27</b></td><td>04:40</td><td>11:57</td><td>15:16</td><td>17:56</td><td>19:06</td></tr>
+<tr class="table_dark" align="center"><td><b>28</b></td><td>04:40</td><td>11:57</td><td>15:16</td><td>17:56</td><td>19:06</td></tr>
+<tr class="table_light" align="center"><td><b>29</b></td><td>04:39</td><td>11:56</td><td>15:16</td><td>17:55</td><td>19:05</td></tr>
+<tr class="table_dark" align="center"><td><b>30</b></td><td>04:39</td><td>11:56</td><td>15:15</td><td>17:55</td><td>19:05</td></tr>
+<tr class="table_highlight" align="center"><td><b>31</b></td><td>04:38</td><td>11:56</td><td>15:14</td><td>17:55</td><td>19:05</td></tr>
+<tr class="table_block_content"><td colspan="6">
+<table width="100%">
+<tr class="table_block_title"><td colspan="6"><b>&nbsp;:: Parameter</b></td></tr>
+<tr align="left" class="table_block_content"><td colspan="4">Untuk Kota <b>Jakarta</b> 6&deg;8' LS 106&deg;45' BT</td><td rowspan="3" colspan="2" align="center"><img src="images/circle.php?s=295.15" alt="" /></td></tr>
+<tr class="table_block_content"><td align="right" colspan="2">Arah :</td><td colspan="2">295.15 &deg; ke Mekah</td></tr>
+<tr class="table_block_content"><td align="right" colspan="2">Jarak :</td><td colspan="2">7909.409 km ke Mekah</td></tr>
+</table>
+</td></tr>
+<tr class="table_block_content"><td colspan="6">
+<table width="100%">
+<tr class="table_block_title"><td colspan="6"><b>&nbsp;:: Pilihan Fiqh</b></td></tr>
+<tr valign=top class="table_block_content"><td colspan="3"> Penentapan Waktu Shubuh</td><td colspan="3">:&nbsp;20.0 deg. Kemiringan Matahari</td></tr>
+<tr valign=top class="table_block_content"><td colspan="3"> Penetapan Waktu Ashr</td><td colspan="3">:&nbsp;Perbandingan bayangan  1 (Shafi'i dan lainnya)</td></tr>
+<tr class="table_block_content"><td colspan="3"> Penetapan Waktu Isya</td><td colspan="3">:&nbsp;18.0 deg. Kemiringan Matahari</td></tr>
+<tr class="table_block_content"><td colspan="3"> Penetapan Waktu Imsyak</td><td colspan="3">:&nbsp;10.0 min. Jarak Waktu dari Shubuh</td></tr>
+<tr class="table_block_content"><td colspan="3"> Jadwal sudah diberi</td><td colspan="3">:&nbsp;<strong>+2 menit</strong> untuk waktu Ihtiyati (pengaman)</td></tr>
+</table>
+</td></tr>
+<tr class="table_block_title"><td colspan="6"><b>&nbsp;:: Print/Cetak</b></td></tr><tr valign=top class="table_block_content"><td colspan="6" align="right"><input type="button" class="button" name="btnExport" value="Print" onClick="javascript:location.href='export.php';" /></td></tr><tr class="table_copyright" align="center"><td colspan="6">copyright &copy 2003-2017 by <a href="mailto:cahyadsn@yahoo.com">cahyadsn</a> Modified by <a href="http://www.pkpu.org">PKPU</a> IT Dev.</td></tr>
+</table>
+</body>
+</html>
