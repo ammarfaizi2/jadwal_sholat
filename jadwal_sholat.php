@@ -1,4 +1,8 @@
 <?php
+/**
+ * @author Ammar Faizi <ammarfaizi2@gmail.com>
+ * @link https://t.me/ScrapeID (Telegram Group)
+ */
 header("Content-type:application/json");
 $ch = curl_init("https://jadwalsholat.pkpu.or.id/");
 curl_setopt_array($ch, [
