@@ -1,4 +1,4 @@
 # Jadwal Sholat
 
-## Source : [https://jadwalsholat.pkpu.or.id/](https://jadwalsholat.pkpu.or.id/)
-### [Scrape ID](https://t.me/ScrapeID)
+## Sumber : [https://jadwalsholat.pkpu.or.id/](https://jadwalsholat.pkpu.or.id/)
+### Join grup telegram [Scrape ID](https://t.me/ScrapeID)
